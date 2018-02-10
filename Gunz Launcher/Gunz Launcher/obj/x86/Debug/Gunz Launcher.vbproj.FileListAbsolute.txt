@@ -1,0 +1,33 @@
+C:\Users\Amir\documents\visual studio 2010\Projects\Gunz Launcher\Gunz Launcher\bin\Debug\Gunz Launcher.exe
+C:\Users\Amir\documents\visual studio 2010\Projects\Gunz Launcher\Gunz Launcher\bin\Debug\Gunz Launcher.pdb
+C:\Users\Amir\documents\visual studio 2010\Projects\Gunz Launcher\Gunz Launcher\bin\Debug\Gunz Launcher.xml
+C:\Users\Amir\documents\visual studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amir\documents\visual studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz_Launcher.Resources.resources
+C:\Users\Amir\documents\visual studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Amir\documents\visual studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Amir\documents\visual studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz Launcher.exe
+C:\Users\Amir\documents\visual studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz Launcher.xml
+C:\Users\Amir\documents\visual studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz Launcher.pdb
+C:\Users\Amir\documents\visual studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz_Launcher.Launcher.resources
+C:\Users\Amir\documents\visual studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz_Launcher.Login_Account.resources
+C:\Users\Amir\documents\visual studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz_Launcher.Admin_Console.resources
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher\Gunz Launcher\bin\Debug\Gunz Launcher.exe.config
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\bin\Debug\Gunz Launcher.exe.config
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\bin\Debug\Gunz Launcher.exe
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\bin\Debug\Gunz Launcher.pdb
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\bin\Debug\Gunz Launcher.xml
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz_Launcher.Admin_Console.resources
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz_Launcher.Launcher.resources
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz_Launcher.Login_Account.resources
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz_Launcher.Resources.resources
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz Launcher.exe
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz Launcher.xml
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz Launcher.pdb
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz Launcher.vbprojResolveAssemblyReference.cache
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz Launcher.vbproj.GenerateResource.Cache
+F:\Apps\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\bin\Debug\Gunz Launcher.exe.config
+F:\Apps\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz Launcher.exe
+F:\Apps\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz Launcher.xml
+F:\Apps\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\obj\x86\Debug\Gunz Launcher.pdb

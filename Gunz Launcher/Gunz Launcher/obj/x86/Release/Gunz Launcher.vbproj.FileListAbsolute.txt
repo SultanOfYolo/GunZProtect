@@ -1,0 +1,18 @@
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher\Gunz Launcher\bin\Release\Gunz Launcher.exe
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher\Gunz Launcher\bin\Release\Gunz Launcher.pdb
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher\Gunz Launcher\bin\Release\Gunz Launcher.xml
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Release\Gunz_Launcher.Admin_Console.resources
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Release\Gunz_Launcher.Launcher.resources
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Release\Gunz_Launcher.Login_Account.resources
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Release\Gunz_Launcher.Resources.resources
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Release\Gunz Launcher.exe
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Release\Gunz Launcher.xml
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Release\Gunz Launcher.pdb
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher\Gunz Launcher\bin\Release\Gunz Launcher.exe.config
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher\Gunz Launcher\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\bin\Release\Gunz Launcher.exe.config
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\obj\x86\Release\Gunz Launcher.exe
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\obj\x86\Release\Gunz Launcher.xml
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher\Gunz Launcher\obj\x86\Release\Gunz Launcher.pdb

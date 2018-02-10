@@ -1,0 +1,14 @@
+﻿[25.09.2011 16:19:06] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[25.09.2011 16:19:21] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[25.09.2011 16:20:00] Staff: GM/Developer (UserID): Torrent_spy→ Requested Playerlist
+[25.09.2011 16:20:24] Staff: GM/Developer (UserID): Torrent_spy→ Requested Playerlist
+[25.09.2011 16:20:30] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[25.09.2011 16:20:34] Staff: GM/Developer (UserID): Torrent_spy→ Requested Playerlist
+[25.09.2011 16:20:38] Staff: GM/Developer (UserID): Torrent_spy→ Requested Playerlist
+[25.09.2011 16:20:40] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[25.09.2011 16:20:44] Staff: GM/Developer (UserID): Torrent_spy→ Requested Playerlist
+[25.09.2011 16:20:50] Staff: GM/Developer (UserID): Torrent_spy→ Requested Playerlist
+[25.09.2011 16:20:53] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[25.09.2011 17:07:30] Staff: GM/Developer (UserID): Torrent_spy→ IP Unbanned the Account: Torrent_spy - IP: 127.0.0.1:52798
+[09.08.2013 00:14:29] DB connection open failed!, Die von der Anmeldung angeforderte 'GunZDB'-Datenbank kann nicht geöffnet werden. Fehler bei der Anmeldung.
+Fehler bei der Anmeldung für den Benutzer 'Amir-PC\Amir'.

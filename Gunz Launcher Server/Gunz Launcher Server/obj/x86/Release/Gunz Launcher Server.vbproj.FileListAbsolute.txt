@@ -1,0 +1,13 @@
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher Server\Gunz Launcher Server\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher Server\Gunz Launcher Server\obj\x86\Release\Gunz_Launcher_Server.Resources.resources
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher Server\Gunz Launcher Server\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher Server\Gunz Launcher Server\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher Server\Gunz Launcher Server\bin\Release\Gunz Launcher Server.exe
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher Server\Gunz Launcher Server\bin\Release\Gunz Launcher Server.pdb
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher Server\Gunz Launcher Server\bin\Release\Gunz Launcher Server.xml
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher Server\Gunz Launcher Server\obj\x86\Release\Gunz Launcher Server.exe
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher Server\Gunz Launcher Server\obj\x86\Release\Gunz Launcher Server.xml
+C:\Users\Amir\Documents\Visual Studio 2010\Projects\Gunz Launcher Server\Gunz Launcher Server\obj\x86\Release\Gunz Launcher Server.pdb
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher Server\Gunz Launcher Server\obj\x86\Release\Gunz Launcher Server.exe
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher Server\Gunz Launcher Server\obj\x86\Release\Gunz Launcher Server.xml
+D:\Applications\Apps\GunZ Protect\GunZ Protect - v6.1\Gunz Launcher Server\Gunz Launcher Server\obj\x86\Release\Gunz Launcher Server.pdb

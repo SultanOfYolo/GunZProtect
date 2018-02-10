@@ -1,0 +1,112 @@
+﻿[28.09.2011 15:42:28] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[28.09.2011 15:43:48] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[28.09.2011 15:45:53] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[28.09.2011 15:49:43] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[28.09.2011 15:50:19] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[28.09.2011 15:53:53] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[28.09.2011 15:57:52] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[28.09.2011 16:00:00] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[28.09.2011 16:04:19] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[28.09.2011 16:05:05] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[28.09.2011 16:06:02] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[28.09.2011 16:07:06] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[28.09.2011 16:08:37] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[28.09.2011 16:09:40] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[28.09.2011 16:10:01] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[28.09.2011 16:13:40] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[28.09.2011 16:17:58] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[28.09.2011 16:18:26] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[28.09.2011 16:19:57] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[28.09.2011 23:57:23] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[28.09.2011 23:58:32] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 00:00:59] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 00:04:12] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 00:05:40] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 00:06:51] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[29.09.2011 00:07:50] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 00:08:47] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 00:10:05] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 00:24:04] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 15:44:27] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 15:44:36] Staff: GM/Developer (UserID): Torrent_spy→ Requested Playerlist
+[29.09.2011 15:45:05] Staff: GM/Developer (UserID): Torrent_spy→ Requested Playerlist
+[29.09.2011 15:45:09] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 15:45:23] Staff: GM/Developer (UserID): Torrent_spy→ Hardware Banned the Account: TheOnlyOne - IP: 127.0.0.1:49465
+[29.09.2011 15:45:31] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 15:45:53] Staff: GM/Developer (UserID): Torrent_spy→ Requested Playerlist
+[29.09.2011 15:45:59] Staff: GM/Developer (UserID): Torrent_spy→ Hardware Unbanned the Account: TheOnlyone - IP: 127.0.0.1:49486
+[29.09.2011 15:46:03] Staff: GM/Developer (UserID): Torrent_spy→ IP Unbanned the Account: TheOnlyone - IP: 127.0.0.1:49486
+[29.09.2011 15:46:12] Staff: GM/Developer (UserID): Torrent_spy→ Unbanned the Account: TheOnlyone - IP: 127.0.0.1:49486
+[29.09.2011 15:46:28] Staff: GM/Developer (UserID): Torrent_spy→ Requested Playerlist
+[29.09.2011 15:46:39] Staff: GM/Developer (UserID): Torrent_spy→ IP Unbanned the Account: TheOnlyOne - IP: 127.0.0.1:49496
+[29.09.2011 15:46:56] Staff: GM/Developer (UserID): Torrent_spy→ Requested Playerlist
+[29.09.2011 15:47:08] Staff: GM/Developer (UserID): Torrent_spy→ Hardware Unbanned the Account: TheOnlyOne - IP: 127.0.0.1:49496
+[29.09.2011 15:47:14] Staff: GM/Developer (UserID): Torrent_spy→ Unbanned the Account: TheOnlyOne - IP: 127.0.0.1:49496
+[29.09.2011 15:47:17] Staff: GM/Developer (UserID): Torrent_spy→ Hardware Unbanned the Account: TheOnlyOne - IP: 127.0.0.1:49496
+[29.09.2011 15:47:18] Staff: GM/Developer (UserID): Torrent_spy→ IP Unbanned the Account: TheOnlyOne - IP: 127.0.0.1:49496
+[29.09.2011 15:55:37] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 15:55:43] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 15:55:52] Staff: GM/Developer (UserID): TheOnlyOne→ Requested Playerlist
+[29.09.2011 15:55:59] Staff: GM/Developer (UserID): torrent_spy→ Requested Playerlist
+[29.09.2011 15:56:15] Staff: GM/Developer (UserID): TheOnlyOne→ Requested Playerlist
+[29.09.2011 15:56:16] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 15:56:29] Staff: Administrator (UserID): Demantor→ Hardware Banned the Account: torrent_spy - IP: 127.0.0.1:49645
+[29.09.2011 15:56:48] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 15:57:18] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 15:57:27] Staff: Administrator (UserID): Demantor→ Hardware Unbanned the Account: Torrent_spy - IP: 127.0.0.1:49661
+[29.09.2011 15:57:33] Staff: Administrator (UserID): Demantor→ IP Unbanned the Account: Torrent_spy - IP: 127.0.0.1:49661
+[29.09.2011 15:59:00] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 15:59:22] Staff: GM/Developer (UserID): TheOnlyOne→ Requested Playerlist
+[29.09.2011 16:00:15] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 16:00:27] Staff: Administrator (UserID): Demantor→ IP Banned the Account: Torrent_spy - IP: 127.0.0.1:49691
+[29.09.2011 16:00:33] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 16:01:22] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 16:01:27] Staff: Administrator (UserID): Demantor→ IP Unbanned the Account: Torrent_spy - IP: 127.0.0.1:49720
+[29.09.2011 16:21:48] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 16:22:20] Staff: GM/Developer (UserID): TheOnlyOne→ Requested Playerlist
+[29.09.2011 16:22:58] Staff: GM/Developer (UserID): TheOnlyOne→ IP Banned the Account: Torrent_spy - IP: 127.0.0.1:50403
+[29.09.2011 16:23:03] Staff: GM/Developer (UserID): TheOnlyOne→ Requested Playerlist
+[29.09.2011 16:23:20] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 16:23:27] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 16:23:34] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 16:23:37] Staff: Administrator (UserID): Demantor→ IP Unbanned the Account: torrent_spy - IP: 127.0.0.1:50451
+[29.09.2011 16:23:42] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 17:06:14] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 17:18:21] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 17:26:14] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 17:27:13] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 17:29:42] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 17:30:50] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 17:31:36] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 17:32:42] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 17:36:24] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 17:40:23] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 17:42:22] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 17:43:55] Staff: Administrator (UserID): DEMANTOR→ Requested Playerlist
+[29.09.2011 17:46:29] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[29.09.2011 18:00:22] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[29.09.2011 18:07:09] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 18:17:29] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 18:19:13] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 18:21:39] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[29.09.2011 18:25:29] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 18:29:54] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 18:30:48] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 18:31:44] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[29.09.2011 18:33:28] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[29.09.2011 18:41:05] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 18:42:48] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 18:45:33] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 19:56:47] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[29.09.2011 19:57:31] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[30.09.2011 14:08:22] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[30.09.2011 14:08:50] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[30.09.2011 14:10:07] Staff: Administrator (Character): Demn1992→ Requested Playerlist
+[30.09.2011 17:14:28] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[30.09.2011 17:15:53] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[04.10.2011 15:18:43] Staff: Administrator (UserID): demantor→ Requested Playerlist
+[11.10.2011 01:06:12] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[11.10.2011 01:06:35] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[11.10.2011 01:07:26] Staff: Administrator (UserID): Demantor→ Requested Playerlist
+[03.11.2012 16:37:52] DB connection open failed!, Netzwerkbezogener oder instanzspezifischer Fehler beim Herstellen einer Verbindung mit SQL Server. Der Server wurde nicht gefunden, oder auf ihn kann nicht zugegriffen werden. Überprüfen Sie, ob der Instanzname richtig ist und ob SQL Server Remoteverbindungen zulässt. (provider: SQL Network Interfaces, error: 26 - Fehler beim Bestimmen des angegebenen Servers/der angegebenen Instanz)
+[09.03.2013 20:01:30] DB connection open failed!, Netzwerkbezogener oder instanzspezifischer Fehler beim Herstellen einer Verbindung mit SQL Server. Der Server wurde nicht gefunden, oder auf ihn kann nicht zugegriffen werden. Überprüfen Sie, ob der Instanzname richtig ist und ob SQL Server Remoteverbindungen zulässt. (provider: SQL Network Interfaces, error: 26 - Fehler beim Bestimmen des angegebenen Servers/der angegebenen Instanz)
